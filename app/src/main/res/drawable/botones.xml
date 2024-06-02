@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <solid android:color="#FF5733" /> <!-- Color de fondo rojo claro -->
+    <corners android:radius="30dp" /> <!-- Radio de esquinas para hacerlo redondo -->
+    <!-- Estilo de texto -->
+    <stroke android:color="#DFA4A4" /> <!-- Color del contorno del texto (en este caso, negro) -->
+    <padding android:left="5dp" android:top="5dp" android:right="5dp" android:bottom="5dp" /> <!-- Añade un poco de espacio entre el borde del botón y el texto -->
+    <size android:textSize="16sp" /> <!-- Tamaño del texto -->
+    <solid android:color="#DFA4A4" /> <!-- Color del texto (en este caso, negro) -->
+    <italic /> <!-- Establece el texto en cursiva -->
+    <bold /> <!-- Establece el texto en negrita -->
+</shape>

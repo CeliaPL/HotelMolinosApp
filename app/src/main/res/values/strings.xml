@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HotelMolinos</string>
+    <string name="Habitaciones">Habitaciones</string>
+    <string name="Ubicacion">Ubicación</string>
+    <string name="Contacto">Contacto</string>
+    <string name="Galería">Galería</string>
+    <string name="iv_foto">Foto</string>
+    <string name="calendar" />
+</resources>

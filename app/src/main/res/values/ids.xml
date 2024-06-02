@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="imageViewVistaTerraza" type="id" />
+    <item name="imageViewVistasPalace" type="id" />
+    <item name="imageViewVistasAlhambra" type="id" />
+    <item name="imageViewRecepcion" type="id" />
+    <item name="imageViewDesayuno" type="id" />
+    <item name="imageViewHotelMolinosPortada" type="id" />
+    <item name="imageViewFachadaPrincipal" type="id" />
+    <item name="imageViewHabitacionTwin" type="id" />
+    <item name="imageViewBanoTwin" type="id" />
+    <item name="imageViewDoble" type="id" />
+    <item name="imageViewHabitacionMatrimonio" type="id" />
+    <item name="imageViewHabitacionTriple" type="id" />
+    <item name="imageViewCuadruple" type="id" />
+    <item name="imageViewBanera" type="id" />
+    <item name="imageViewParking" type="id" />
+    <item name="layout_calendario" type="id" />
+    <item name="btCalInd" type="id" />
+    <item name="btCalDo" type="id" />
+    <item name="btCalTri" type="id" />
+    <item name="btCalCua" type="id" />
+    <item name="layoutCalendario" type="id" />
+    <item name="tvFechasSeleccionadas" type="id" />
+</resources>
